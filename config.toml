@@ -1,4 +1,4 @@
-baseURL = "www.example.com"
+baseURL = "https://zealous-williams-66c043.netlify.app"
 languageCode = "en-us"
 title = "Hugo Serif Theme"
 themesDir = "themes"
